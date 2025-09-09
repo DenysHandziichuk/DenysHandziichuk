@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a versatile developer with a passion for building projects across multiple domains. My tech stack includes C, Python, JavaScript, HTML5, CSS, Lua, Flask, Qt, and SQLite for creating robust applications, web development, and database management. I also leverage NumPy and PyTorch for data science and machine learning projects. Always eager to learn new technologies and contribute to open-source projects!
+I'm a passionate web developer focused on building responsive, user-friendly, and efficient applications. I enjoy working across both frontend and backend, constantly learning new tools and best practices. I'm always excited to take on new challenges and contribute to open-source projects.
 
 
 # 💻 Tech Stack:
