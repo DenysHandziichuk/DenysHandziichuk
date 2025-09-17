@@ -10,3 +10,13 @@ I'm a passionate web developer focused on building responsive, user-friendly, an
 ![](https://github-readme-stats.vercel.app/api?username=DenysHandziichuk&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DenysHandziichuk&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHandziichuk&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+#
+name: Full-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
