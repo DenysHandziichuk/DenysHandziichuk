@@ -9,6 +9,6 @@ I'm a passionate web developer focused on building responsive, user-friendly, an
 
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DenysHandziichuk&show_icons=true&theme=prussian&include_all_commits=true&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHandziichuk&layout=compact&theme=prussian&langs_count=8&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api?username=DenysHandziichuk&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DenysHandziichuk&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHandziichuk&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
