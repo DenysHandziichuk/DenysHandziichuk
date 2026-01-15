@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack web developer focused on Next.js frontends and Express backends.
+Full-stack web developer focused on Next.js frontends and Express backends.<br/>
 Building scalable, user-friendly apps • IPv6 (Hurricane Electric Certified)
 
 # 💻 Tech Stack:
