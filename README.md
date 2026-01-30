@@ -12,4 +12,3 @@ Building scalable, user-friendly apps • IPv6 (Hurricane Electric Certified)
 
 "False Knowledge is worse then No Knowledge"
 
-skip day
